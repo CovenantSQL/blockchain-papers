@@ -90,7 +90,7 @@
   - Proofs of Work From Worst-Case Assumptions	[Consensus]
 - EuroCrypto	
   - Thunderella: Blockchains with Optimistic Instant Confirmation	[Consensus]
-  - But Why Does it Work? A Rational Protocol Design Treatment of Bitcoin	[Consensus}
+  - But Why Does it Work? A Rational Protocol Design Treatment of Bitcoin	[Consensus]
   - Sustained Space Complexity	[POW]
   - Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake blockchain	[Consensus]
 
