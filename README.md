@@ -60,9 +60,9 @@
 ### System	
 
  - SOSP	
-  - Algorand: Scaling Byzantine Agreements for Cryptocurrencies	[Blockchain, Consensus]
-  - Verifying a high-performance crash-safe file system using a tree specification	[Verifiability]
-  - Lazy Diagnosis of In-Production Concurrency Bugs	[Blockchain, Debug]
+   - Algorand: Scaling Byzantine Agreements for Cryptocurrencies	[Blockchain, Consensus]
+   - Verifying a high-performance crash-safe file system using a tree specification	[Verifiability]
+   - Lazy Diagnosis of In-Production Concurrency Bugs	[Blockchain, Debug]
 	
 ## 2018	
 
